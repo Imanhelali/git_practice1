@@ -15,5 +15,13 @@ public class abc {
 
         // and ready to be pushed to remote repository
 
+        // I love committing
+
+        // Java is life
+
+        // CYDEO is cool
+
+        // I love coding
+
     }
 }
